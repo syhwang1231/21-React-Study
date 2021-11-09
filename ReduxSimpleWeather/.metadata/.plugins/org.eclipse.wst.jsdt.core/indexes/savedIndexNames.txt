@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\APPS\ReduxSimpleWeather\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+51091391.index
+844235904.index
+139408772.index
+3314769356.index
+4165737616.index
+591937637.index
